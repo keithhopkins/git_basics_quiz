@@ -6,7 +6,7 @@ Keith Hopkins
 
 ###What is your favorite color?
 
-Your answer goes here
+Green
 
 ###Cats or Dogs?
 
