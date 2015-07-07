@@ -14,7 +14,7 @@ Dogs
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+A day in the woods cutting down trees.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
