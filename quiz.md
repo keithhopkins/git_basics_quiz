@@ -10,7 +10,7 @@ Green
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs
 
 ###What would constitute a “perfect” day for you?
 
