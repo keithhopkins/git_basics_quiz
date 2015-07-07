@@ -18,4 +18,4 @@ A day in the woods cutting down trees.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Aristotle
